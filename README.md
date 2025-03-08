@@ -43,8 +43,5 @@ Open [http://localhost:3000](http://localhost:3000) to view the game in your bro
 - The game randomly picks a color and asks the player to click balloons matching that color.
 - Correct clicks earn points, while incorrect choices prompt another try.
 
-## 📷 Screenshots
-(Add screenshots here if available)
-
 ## 🎈 Enjoy Playing and Learning!
 Have fun while you learn!
